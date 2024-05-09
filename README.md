@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 # 📊 Stats:
 ## 🏆 GitHub Trophies
-[![LeetCode Stats](https://leetcard.jacoblin.cool/JiaChangGit?theme=forest&font=Baloo%202&ext=heatmap)]([https://leetcode.com/u/jiego/])
+[![LeetCode Stats](https://leetcard.jiego.cool/jiego?theme=forest&font=Baloo%202&ext=heatmap)]([https://leetcode.com/jiego/])
 <!--
 **Jiegoqqq/Jiegoqqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
