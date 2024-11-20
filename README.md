@@ -1,5 +1,6 @@
 ### Hi there 👋
 ## 🌐 Socials:
+## LinkedIn: [![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/jienanlai/)
 # 📊 Stats:
 ## 🏆 GitHub Trophies
 [![LeetCode Stats](https://leetcard.jiego.cool/jiego?theme=forest&font=Baloo%202&ext=heatmap)]([https://leetcode.com/jiego/])
