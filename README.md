@@ -20,8 +20,8 @@
 
 # 📈 Leetcode:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jiego?ext=contest)
-# 📈 Leetcode:
-![Leetcode Stats](https://leetcard.jacoblin.cool/leehaohsiang?ext=contest)
+
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/leehaohsiang?ext=contest)-->
 <!--
 **Jiegoqqq/Jiegoqqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
