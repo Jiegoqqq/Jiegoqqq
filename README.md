@@ -19,7 +19,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiegoqqq&layout=compact)
 
 # 📈 Leetcode:
-![Leetcode Stats](https://leetcard.jacoblin.cool/jienan?ext=contest)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jiego?ext=contest)
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/leehaohsiang?ext=contest)-->
 <!--
